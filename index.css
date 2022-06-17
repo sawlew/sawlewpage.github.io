@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(219, 70, 70);
+    background-image: url('desktop.png')
+    
+}
+
+main{
+    display: flex;
+    width: 100%;
+  justify-content: center;
+  margin: 0;
+  align-items: center;
+  height: 100vh;
+  border: 1px;
+  border-radius: 10px;
+}
+
+.intro{
+
+}
+
+.trial{
+    background-color: rgb(53, 53, 177);
+}
+
+.form{
+    background-color: white;
+}
